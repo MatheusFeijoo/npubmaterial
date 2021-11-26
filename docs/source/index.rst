@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to NpubMaterial!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**NpubMaterial** is a place where you can better understand the concepts and different applications of nanopublications.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
