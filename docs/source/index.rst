@@ -3,10 +3,9 @@ Welcome to NpubMaterial!
 
 In order to help new stakeholders better understand the content of Nanopublications, **NpubMaterial** provides a compilation of materials related to the conceptual part of nanopublications and the practical application of using nanopublications in different domains.
 
-To better understand the principles that underpin the concept of nanopublications, check out the :doc:`introduction` section.
+In addition to the introductory conceptual part of nanopublications, this material presents an overview of the steps that can be taken to model, generate, publish and retrieve data and metadata following the concept of nanopublications. Finally, it is also possible to find some projects and references that use the concept of nanopublications as the foundation of their proposals.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+To better understand the principles that underpin the concept of nanopublications, check out the :doc:`introduction` section.
 
 .. note::
 
@@ -17,5 +16,10 @@ Contents
 
 .. toctree::
 
-   introduction
-   api
+   Introduction
+   Modelling
+   Generating 
+   Publishing
+   Retrieving
+   Example Projects
+   Useful References
