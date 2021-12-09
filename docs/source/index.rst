@@ -16,10 +16,10 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Modelling
-   Generating 
-   Publishing
-   Retrieving
-   Projects
-   References
+   introduction
+   modelling
+   generating 
+   publishing
+   retrieving
+   projects
+   references
