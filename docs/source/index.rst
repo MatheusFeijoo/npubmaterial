@@ -21,5 +21,5 @@ Contents
    Generating 
    Publishing
    Retrieving
-   Example Projects
-   Useful References
+   Projects
+   References
